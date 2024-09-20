@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="praticeset.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Brand</div>
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Our Landing Page</h1>
+            <p>We offer the best services for your needs. Get in touch with us today!</p>
+            <button id="cta-button">Get Started</button>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="feature">
+            <h2>Feature 1</h2>
+            <p>Our first feature is designed to make your life easier.</p>
+        </div>
+        <div class="feature">
+            <h2>Feature 2</h2>
+            <p>This feature will help you achieve more in less time.</p>
+        </div>
+        <div class="feature">
+            <h2>Feature 3</h2>
+            <p>Explore the capabilities of this amazing feature.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Brand. All rights reserved.</p>
+    </footer>
+
+    <script src="praticeset.js"></script>
+</body>
+</html>
